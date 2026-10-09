@@ -32,6 +32,13 @@ AI is the center of my own learning journey: I use it to teach me how to use AI.
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![llama.cpp](https://img.shields.io/badge/llama.cpp-4B5563?style=flat)
+![LiteLLM](https://img.shields.io/badge/LiteLLM-0EA5E9?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Open WebUI](https://img.shields.io/badge/Open_WebUI-2F2F2F?style=flat)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat&logo=qdrant&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
 
 ## Find me
 
