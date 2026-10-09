@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="cyber-doge.svg" width="576" alt="Pixel-art cyberpunk doge with a cyan visor working at a computer while an AI types on the screen">
+  <img src="cyber-doge-v2.svg" width="576" alt="Pixel-art cyberpunk doge with a cyan visor working at a computer while an AI types on the screen">
 </p>
 
 # Hey, I'm Davi 👋
